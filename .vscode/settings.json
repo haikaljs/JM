@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.lineHeight": 2,
+    "editor.suggestLineHeight": 0
+}
